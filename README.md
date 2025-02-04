@@ -29,8 +29,22 @@ This is a **machine learning-powered web application** that predicts house price
 ┗ 📜 README.md # Project Documentation
 
 
----
+📊 How It Works?
+1️⃣ User Inputs: Enter number of bedrooms, bathrooms, sqft area, and zip code.
+2️⃣ Model Prediction: The trained Ensemble Model processes the input.
+3️⃣ Price Estimation: The app displays the estimated house price.
 
+
+📸 Screenshots
+Home Page
+![image](https://github.com/user-attachments/assets/10893787-f1ce-4f50-93a3-218bd5254175)
+
+
+🔮 Future Enhancements
+🚀 Add More Features (Crime Rate, School Ratings, etc.)
+🚀 Improve Model Accuracy with more real estate datasets
+🚀 Deploy as a Full-Stack Web App with React & FastAPI
+---
 ## **🔧 Installation & Setup**  
 
 ### **1️⃣ Clone the Repository**  
@@ -50,6 +64,14 @@ git commit -m "Initial commit with Ensemble Regression models"
 
 # Push the code to GitHub
 git branch -M main
+
+🙌 Contributors
+👨‍💻 Hanumantha Mulimani (GitHub)
+
+🙌 Contributions are welcome! Feel free to submit a pull request.
+
+📜 License
+This project is open-source under the MIT License.
 git push -u origin main
 
 streamlit run app.py
