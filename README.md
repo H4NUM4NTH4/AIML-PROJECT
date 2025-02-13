@@ -55,7 +55,7 @@ cd HousePrice_Prediction
 # Initialize Git (if not already initialized)
 git init
 
-# Add remote repository (Replace 'your-username' and 'new-repo-name')
+# Add remote repository 
 git remote add origin https://github.com/H4NUM4NTH4/HousePricePrediction_Ensemble.git
 
 # Add all files and commit
